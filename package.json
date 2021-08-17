@@ -1,0 +1,20 @@
+{
+  "name": "node_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.7"
+  },
+  "devDependencies": {
+    "mocha": "^9.0.3"
+  }
+}
